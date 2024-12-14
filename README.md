@@ -1,4 +1,4 @@
-# Assignments-2-QTR-PIAIC
+# Assignment-01-Q-2
 # Understanding OpenAI Chat Completion API Parameters
 
 This document provides a detailed explanation of the parameters used with the OpenAI Chat Completion API.
